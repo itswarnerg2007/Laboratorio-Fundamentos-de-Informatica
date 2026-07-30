@@ -7,7 +7,7 @@
 
 Este repositorio contiene la solución de los **ejercicios 1 al 12** del **Laboratorio #1: Ciclos**, desarrollado en **C++** para el curso **Fundamentos de Informática**.
 
-El objetivo del laboratorio es fortalecer la lógica de programación mediante el uso de **estructuras repetitivas (ciclos)**, **funciones**, **algoritmos numéricos** y la resolución de diversos problemas computacionales. :contentReference[oaicite:0]{index=0}
+El objetivo del laboratorio es fortalecer la lógica de programación mediante el uso de **estructuras repetitivas (ciclos)**, **funciones**, **algoritmos numéricos** y la resolución de diversos problemas computacionales. 
 
 ---
 
