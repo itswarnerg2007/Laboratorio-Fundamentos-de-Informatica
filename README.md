@@ -63,35 +63,6 @@ El objetivo del laboratorio es fortalecer la lógica de programación mediante e
 
 > *La estructura puede variar dependiendo de la organización del proyecto.*
 
----
-
-## 🚀 Cómo ejecutar
-
-1. Clonar el repositorio.
-
-```bash
-git clone https://github.com/itswarnerg2007/Laboratorio-Fundamentos-de-Informatica.git
-```
-
-2. Entrar al proyecto.
-
-```bash
-cd TU-REPOSITORIO
-```
-
-3. Compilar.
-
-```bash
-g++ *.cpp -o Laboratorio1
-```
-
-4. Ejecutar.
-
-```bash
-./Laboratorio1
-```
-
----
 
 ## 📌 Contenidos aprendidos
 
