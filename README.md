@@ -120,7 +120,7 @@ Escuela de Informática
 
 ## 📄 Licencia
 
-Este proyecto fue desarrollado con fines **académicos** como parte del curso **Fundamentos de Informática** de la Universidad Nacional (UNA). :contentReference[oaicite:2]{index=2}
+Este proyecto fue desarrollado con fines **académicos** como parte del curso **Fundamentos de Informática** de la Universidad Nacional (UNA).
 
 ---
 
